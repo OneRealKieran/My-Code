@@ -1,0 +1,16 @@
+[
+{
+  "modid": "am",
+  "name": "A Few Things Mod",
+  "description": "Just adds a few things.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["OneRealKieran"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "am:oak_bark_block" }
+    }
+}

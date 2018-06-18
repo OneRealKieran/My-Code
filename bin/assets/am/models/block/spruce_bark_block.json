@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "am:blocks/spruce_bark_block"
+   }
+}
